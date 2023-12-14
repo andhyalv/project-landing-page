@@ -1,0 +1,69 @@
+body{
+    display:flex;
+    flex-direction:column;
+}
+
+/*Header Code*/
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.title{
+
+}
+.links {
+    display: flex;
+    gap: 5px;
+    padding: 0;
+    margin:0;
+    list-style: none;
+}
+
+/*Container 1 code*/
+.content-1{
+    display: flex;
+    
+}
+.intro{
+
+}
+.intro.big{
+
+}
+
+.intro.small{
+
+}
+.intro.signup-button{}
+
+/*Container 2 code*/
+.content-2{
+    display: flex;
+}
+
+.content-2.big{}
+.body-1{}
+.item-container{}
+.item{}
+.body-1.small{}
+
+/*Container 3 code*/
+.content-3{
+    display: flex;
+}
+.content-3.big{}
+.content-3.small{}
+
+
+/*Footer code*/
+.footer {
+    display: flex;
+
+}
+.footer.body{}
+.footer.text-container{}
+.text-container.big{}
+.text-container.small{}
+
+.body.signup-button{}
